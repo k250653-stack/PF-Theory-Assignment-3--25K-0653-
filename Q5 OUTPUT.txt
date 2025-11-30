@@ -1,0 +1,30 @@
+Enter choice: 1
+Enter line text: Sir Saif is a really good teacher for programming fundamentals
+
+Text Editor Menu:
+1. Insert line at end
+2. Insert line at position
+3. Delete line at position
+4. Print all lines
+5. Save to file
+6. Load from file
+7. Shrink to fit
+8. Exit
+Enter choice: 2
+Enter index to insert at: 2
+Enter line text: Hamza is a student at FAST
+
+Text Editor Menu:
+1. Insert line at end
+2. Insert line at position
+3. Delete line at position
+4. Print all lines
+5. Save to file
+6. Load from file
+7. Shrink to fit
+8. Exit
+Enter choice: 8
+
+--------------------------------
+Process exited after 52.05 seconds with return value 0
+Press any key to continue . . .
