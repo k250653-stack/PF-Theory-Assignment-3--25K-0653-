@@ -1,0 +1,17 @@
+Repayment schedule without extra payments:
+Year 1: Remaining loan = 71666.67
+Year 2: Remaining loan = 41916.67
+Year 3: Remaining loan = 10679.17
+Total repayment over 3 years = 110679.17
+
+Repayment schedule with extra yearly payment of 5000.00:
+Year 1 (with extra payment): Remaining loan = 66666.67
+Year 2 (with extra payment): Remaining loan = 31666.67
+Year 3 (with extra payment): Remaining loan = 0.00
+Total repayment with extra payments over 3 years = 124916.67
+
+--------------------------------
+Process exited after 0.05363 seconds with return value 0
+Press any key to continue . . .
+
+
