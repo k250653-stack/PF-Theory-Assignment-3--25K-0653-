@@ -1,0 +1,29 @@
+Membership Manager Menu:
+1. Register new student
+2. Update student
+3. Delete student
+4. View all registrations
+5. Generate batch-wise report
+6. Save and Exit
+Enter choice: 1
+Enter Student ID: 10
+Enter Full Name: Hamza Siddiqui
+Enter Batch (CS/SE/Cyber/AI): CS
+Enter Membership Type (IEEE/ACM): ACM
+Enter Registration Date (YYYY-MM-DD): 2025-11-29
+Enter Date of Birth (YYYY-MM-DD): 2007-07-12
+Enter Interest (IEEE/ACM/Both): Both
+Student added.
+
+Membership Manager Menu:
+1. Register new student
+2. Update student
+3. Delete student
+4. View all registrations
+5. Generate batch-wise report
+6. Save and Exit
+Enter choice: 6
+
+--------------------------------
+Process exited after 67.57 seconds with return value 0
+Press any key to continue . . .
