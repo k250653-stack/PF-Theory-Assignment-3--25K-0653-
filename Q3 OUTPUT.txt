@@ -1,0 +1,107 @@
+Enter number of employees: 2
+Employee 1 ID: 1
+Employee 1 Name: Hamza
+Employee 1 Designation: CEO
+Employee 1 Salary: 450000
+Employee 2 ID: 2
+Employee 2 Name: Hammad
+Employee 2 Designation: CFO
+Employee 2 Salary: 340000
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 1
+
+ID         Name                      Designation               Salary
+1          Hamza                     CEO                       450000.00
+2          Hammad                    CFO                       340000.00
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 2
+
+Employee with highest salary:
+ID: 1
+Name: Hamza
+Designation: CEO
+Salary: 450000.00
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 3
+
+Search by:
+1. ID
+2. Name
+Enter choice: 1
+Enter ID to search: 1
+Record found:
+ID: 1
+Name: Hamza
+Designation: CEO
+Salary: 450000.00
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 3
+
+Search by:
+1. ID
+2. Name
+Enter choice: 2
+Enter Name to search (case-sensitive): Hammad
+Record found:
+ID: 2
+Name: Hammad
+Designation: CFO
+Salary: 340000.00
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 4
+Enter salary threshold: 10
+Bonus applied.
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 1
+
+ID         Name                      Designation               Salary
+1          Hamza                     CEO                       450000.00
+2          Hammad                    CFO                       340000.00
+
+Menu:
+1. Display all employees
+2. Find employee with highest salary
+3. Search employee
+4. Apply 10% bonus below threshold
+5. Exit
+Enter choice: 5
+
+--------------------------------
+Process exited after 45.97 seconds with return value 0
+Press any key to continue . . .
