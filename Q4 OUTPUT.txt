@@ -1,0 +1,53 @@
+
+=============================
+     LIBRARY SHELF MENU
+=============================
+
+Enter shelf capacity: 5
+Enter number of operations: 3
+
+Choose Operation:
+1. ADD Book
+2. ACCESS Book
+3. SHOW Shelf
+Enter option: 1
+Enter Book ID: 21
+Enter Popularity: 89
+Book added.
+
+Choose Operation:
+1. ADD Book
+2. ACCESS Book
+3. SHOW Shelf
+Enter option: 1
+Enter Book ID: 24
+Enter Popularity: 34
+Book added.
+
+Choose Operation:
+1. ADD Book
+2. ACCESS Book
+3. SHOW Shelf
+Enter option: 1
+Enter Book ID: 12
+Enter Popularity: 23
+Book added.
+
+All operations completed.
+
+-----------------------------------------
+             Library Shelf
+-----------------------------------------
+Book ID    Popularity   Last Used
+-----------------------------------------
+21         89           1
+24         34           2
+12         23           3
+-          -            -
+-          -            -
+-----------------------------------------
+
+
+--------------------------------
+Process exited after 25.15 seconds with return value 0
+Press any key to continue . . .
