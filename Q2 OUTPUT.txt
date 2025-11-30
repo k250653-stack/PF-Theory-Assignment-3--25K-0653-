@@ -1,0 +1,23 @@
+Enter initial fuel: 100
+Enter fuel consumption per planet: 10
+Enter gravitational recharge amount: 5
+Enter solar recharge bonus (every 4th planet): 3
+Enter total number of planets: 10
+
+Fuel simulation:
+Planet 1: Fuel Remaining = 95
+Planet 2: Fuel Remaining = 90
+Planet 3: Fuel Remaining = 85
+Planet 4: Fuel Remaining = 83
+Planet 5: Fuel Remaining = 78
+Planet 6: Fuel Remaining = 73
+Planet 7: Fuel Remaining = 68
+Planet 8: Fuel Remaining = 66
+Planet 9: Fuel Remaining = 61
+Planet 10: Fuel Remaining = 56
+
+Spacecraft completed the journey.
+
+--------------------------------
+Process exited after 13.73 seconds with return value 0
+Press any key to continue . . .
